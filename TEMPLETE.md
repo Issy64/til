@@ -3,6 +3,10 @@
 ## 🗓 日付
 202X-XX-XX
 
+## 参考URL
+Jetpack Compose を用いた Android アプリ開発の基礎
+- [UIと状態を操作する](https://developer.android.com/courses/pathways/android-basics-compose-unit-2-pathway-3?hl=ja)
+
 ## 💡 学んだこと（要約）
 1. ここに一言で、何を知ったかを書く
 2. 以前の知識とどう繋がったか（もしあれば）
