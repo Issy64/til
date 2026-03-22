@@ -264,13 +264,3 @@ Scaffold(
 > 📖 [ウィンドウインセットの設定](https://developer.android.com/develop/ui/compose/system/insets)
 
 ---
-
-## 🔗 今回の学習で繋がった知識
-
--
-
-AffirmationsApp コンポーザブルで、現在のレイアウトの向きを取得し、変数に保存します。これらは、後でパディングを設定するために使用されます。
-
-次に、Surface コンポーザブルを作成します。このコンポーザブルは、AffirmationsList コンポーザブルのパディングを設定します。
-
-の最大幅と最大高さを埋め、ステータスバーのパディングを設定し、左右のパディングを layoutDirection に設定する Modifier を Surface コンポーザブルに渡します。たとえば、LayoutDirection オブジェクトをパディングに変換する場合は、WindowInsets.safeDrawing.asPaddingValues().calculateStartPadding(layoutDirection) のようにします。
